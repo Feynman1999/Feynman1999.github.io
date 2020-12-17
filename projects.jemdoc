@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{projects.html}, nofooter
+= Projects
+
+~~~
+{}{img_left}{images/mgeediting.png}{Temp}{320}
+
+*MgeEditing*
+
+MgeEditing is an open source image and video editing toolbox based on MegEngine.
+
+[https://github.com/Feynman1999/MgeEditing GitHub link]
+~~~
+
+== ~
+
+~~~
+{}{img_left}{images/numbertheory.png}{Temp}{320}
+
+*number-theory-tutorial-in-Programming-Competition*
+
+An introduction tutorial about number theory in Programming Competition, Code is Implemented in C++.
+
+[https://github.com/Feynman1999/number-theory-tutorial-in-Programming-Competition GitHub link]
+~~~
+
+== ~

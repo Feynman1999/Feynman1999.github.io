@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Yuxiang Chen
+
+~~~
+{}{img_left}{images/cyx.jpg}{Temp}{120}
+
+[https://www.scse.uestc.edu.cn/ University of Electronic Science and Technology of China (Qingshuihe Campus)],\n
+A2-301, Main Building\n
+No. 2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R. China 611731\n
+Email: chenyx.cs@gmail.com\n
+~~~
+
+== About me
+
+I am currently a first year postgraduate student, affiliated with the [https://diggers.ai/ DIG lab]. My advisors are Profs. [https://wenli-vision.github.io/ Wen Li] and [http://lxduan.info/ Lixin Duan].
+
+I was previously a undergraduate student at the [http://cs.ahu.edu.cn/ Anhui University].
+
+== Research
+
+I am currently exploring the reinforcement learning, both theory and application.
+
+In particular, I focus on the transfer reinforcement learning(TRL).
+
+== News
+
+=== 2020.09
+- We won the second place in the [https://studio.brainpp.com/competition?tab=questions video super resolution competition held by megvii].
+Code can be found [https://github.com/Feynman1999/MgeEditing here].
