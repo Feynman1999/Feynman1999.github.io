@@ -1,0 +1,3 @@
+## usage
+
+run `. run.sh` 
