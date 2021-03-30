@@ -18,11 +18,15 @@ I was previously a undergraduate student at the [http://cs.ahu.edu.cn/ Anhui Uni
 
 == Research
 
-I am currently exploring the reinforcement learning, both theory and application.
+I am currently exploring the video editing, both theory and application.
 
-In particular, I focus on the transfer reinforcement learning(TRL).
+In particular, I focus on the video super resolution and video inpainting.
 
 == News
+
+=== 2021.03
+- We won the first place in the [https://competitions.codalab.org/competitions/28112 real time video super resolution competition held by CVPR2021 - MAI Workshop].
+Code can be found [https://github.com/Feynman1999/MAI-VSR-Diggers here].
 
 === 2020.09
 - We won the second place in the [https://studio.brainpp.com/competition?tab=questions video super resolution competition held by megvii].
